@@ -1,0 +1,22 @@
+@import 'variable';
+
+.card-course-item {
+    margin-top: 16px;
+}
+
+.select-all-options-checkbox {
+    width: 130px !important;
+    justify-content: center;
+    margin: 0 16px;
+}
+
+.description-course {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+}
+
+.nav-course {
+    display: inline-flex;
+}

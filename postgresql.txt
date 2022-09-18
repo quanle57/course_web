@@ -1,0 +1,24 @@
+-- INSERT INTO courses(name, description, image)
+-- VALUES ('Node & ExpressJS', 'Học Back-end với Node & ExpressJS framework, hiểu các khái niệm khi làm Back-end và xây dựng RESTful API cho trang web.', 
+--  		'https://files.fullstack.edu.vn/f8-prod/courses/6.png');
+-- select * from courses;
+-- ALTER TABLE courses
+-- ADD COLUMN videoId varchar(255);
+
+-- UPDATE courses
+-- SET videoid= 'zwsPND378OQ'
+-- WHERE id=1;
+
+-- UPDATE courses
+-- SET videoid= 'zwsPND378OQ'
+-- WHERE id=2;
+
+-- UPDATE courses
+-- SET videoid= 'zwsPND378OQ'
+-- WHERE id=3;
+
+-- UPDATE courses
+-- SET videoid= 'zwsPND378OQ'
+-- WHERE id=4;
+
+select * from courses;
